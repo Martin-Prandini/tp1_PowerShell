@@ -1,0 +1,8 @@
+Trabajo Práctico N° 1 - PowerShell
+
+1. Dirección URL del repositorio online:
+https://github.com/Martin-Prandini/tp1_PowerShell
+
+
+2. Dirección URL de la página publicada:
+https://martin-prandini.github.io/tp1_PowerShell/
